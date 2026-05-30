@@ -3376,5 +3376,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2026-05-30 11:47:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2026-05-30 11:51:24 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 4790
 }
