@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2026-06-05 18:47:24 +0200",
       "minecraft:forest": "2026-01-26 12:15:50 +0100",
       "minecraft:cherry_grove": "2026-01-27 16:05:23 +0100",
       "minecraft:sunflower_plains": "2026-01-27 15:48:45 +0100",
