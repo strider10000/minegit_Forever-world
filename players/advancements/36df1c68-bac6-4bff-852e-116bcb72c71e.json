@@ -635,7 +635,9 @@
       "bread": "2026-02-01 15:37:17 +0100",
       "cooked_chicken": "2026-01-27 12:44:37 +0100",
       "rotten_flesh": "2026-01-27 15:45:16 +0100",
-      "cooked_mutton": "2026-01-26 15:28:59 +0100"
+      "cooked_mutton": "2026-01-26 15:28:59 +0100",
+      "cooked_beef": "2026-06-05 16:13:55 +0200",
+      "carrot": "2026-06-05 16:13:17 +0200"
     },
     "done": false
   },
@@ -2127,6 +2129,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2026-06-04 13:36:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-06-05 16:15:16 +0200"
     },
     "done": true
   },
