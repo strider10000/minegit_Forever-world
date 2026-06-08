@@ -2211,36 +2211,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2026-06-08 13:57:31 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2026-06-08 13:57:31 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_core": "2026-06-08 13:53:21 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map_cloning": {
-    "criteria": {
-      "has_filled_map": "2026-06-08 13:52:31 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2026-06-08 13:57:31 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2026-06-08 13:47:10 +0200"
@@ -2253,15 +2223,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2026-06-08 13:47:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map_cloning": {
+    "criteria": {
+      "has_filled_map": "2026-06-08 13:52:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2026-06-08 13:53:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2026-06-08 13:53:41 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_carpet": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "has_light_gray_wool": "2026-06-08 13:47:10 +0200"
+      "has_black_wool": "2026-06-08 13:57:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2026-06-08 13:57:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2026-06-08 13:57:31 +0200"
     },
     "done": true
   },
