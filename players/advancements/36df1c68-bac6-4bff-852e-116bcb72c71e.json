@@ -1394,6 +1394,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2026-06-10 11:54:35 +0200",
       "minecraft:skeleton": "2026-01-31 17:38:38 +0100",
       "minecraft:spider": "2026-01-31 18:08:55 +0100",
       "minecraft:zombie": "2026-01-31 17:38:55 +0100",
@@ -2262,6 +2263,36 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2026-06-08 13:57:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_helmet_dyed": {
+    "criteria": {
+      "has_leather_helmet": "2026-06-10 10:53:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2026-06-10 11:12:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2026-06-10 11:12:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2026-06-10 11:12:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-06-10 11:54:40 +0200"
     },
     "done": true
   },
