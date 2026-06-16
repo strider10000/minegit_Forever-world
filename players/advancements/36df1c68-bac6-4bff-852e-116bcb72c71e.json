@@ -2339,6 +2339,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2026-06-16 09:32:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2026-06-16 09:32:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2026-06-16 09:34:27 +0200"
@@ -2348,12 +2360,6 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2026-06-16 09:34:27 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2026-06-16 09:32:35 +0200"
     },
     "done": true
   },
@@ -2372,12 +2378,6 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2026-06-16 09:34:27 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_poppy": {
-    "criteria": {
-      "has_poppy": "2026-06-16 09:32:35 +0200"
     },
     "done": true
   },
