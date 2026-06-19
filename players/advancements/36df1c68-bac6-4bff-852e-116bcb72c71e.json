@@ -1889,12 +1889,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-01-31 18:22:41 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2026-02-01 11:10:26 +0100"
@@ -2393,5 +2387,5 @@
     },
     "done": true
   },
-  "DataVersion": 4790
+  "DataVersion": 4903
 }
