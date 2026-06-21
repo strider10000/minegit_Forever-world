@@ -7,18 +7,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2026-06-21 13:20:24 +0200",
       "minecraft:flower_forest": "2026-06-08 13:41:33 +0200",
       "minecraft:beach": "2026-06-05 18:47:24 +0200",
+      "minecraft:old_growth_pine_taiga": "2026-06-21 13:22:41 +0200",
       "minecraft:forest": "2026-01-26 12:15:50 +0100",
       "minecraft:taiga": "2026-06-19 10:49:34 +0200",
+      "minecraft:deep_ocean": "2026-06-21 13:26:39 +0200",
       "minecraft:river": "2026-01-26 15:56:12 +0100",
       "minecraft:stony_shore": "2026-02-01 15:31:23 +0100",
       "minecraft:snowy_plains": "2026-06-19 10:53:48 +0200",
       "minecraft:snowy_taiga": "2026-06-19 10:53:28 +0200",
       "minecraft:old_growth_birch_forest": "2026-06-06 10:00:37 +0200",
       "minecraft:frozen_river": "2026-06-19 10:52:37 +0200",
+      "minecraft:ocean": "2026-06-21 13:26:33 +0200",
       "minecraft:cherry_grove": "2026-01-27 16:05:23 +0100",
       "minecraft:sunflower_plains": "2026-01-27 15:48:45 +0100",
+      "minecraft:swamp": "2026-06-21 13:24:13 +0200",
       "minecraft:meadow": "2026-01-27 16:06:15 +0100",
       "minecraft:old_growth_spruce_taiga": "2026-06-19 10:50:20 +0200",
       "minecraft:savanna": "2026-06-19 10:58:49 +0200",
@@ -645,6 +650,7 @@
       "cooked_chicken": "2026-01-27 12:44:37 +0100",
       "rotten_flesh": "2026-01-27 15:45:16 +0100",
       "cooked_mutton": "2026-01-26 15:28:59 +0100",
+      "sweet_berries": "2026-06-21 13:24:27 +0200",
       "salmon": "2026-06-08 13:45:51 +0200",
       "cooked_beef": "2026-06-05 16:13:55 +0200",
       "porkchop": "2026-06-08 13:47:38 +0200",
@@ -2516,6 +2522,72 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2026-06-19 10:35:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2026-06-21 13:23:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2026-06-21 13:23:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2026-06-21 13:23:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2026-06-21 13:23:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2026-06-21 13:23:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2026-06-21 13:23:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-06-21 13:23:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-06-21 13:23:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2026-06-21 13:23:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-06-21 13:23:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2026-06-21 13:23:58 +0200"
     },
     "done": true
   },
