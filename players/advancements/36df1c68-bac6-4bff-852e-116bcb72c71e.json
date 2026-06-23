@@ -2819,15 +2819,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_shelf": {
-    "criteria": {
-      "has_stripped_spruce_log": "2026-06-22 19:49:14 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/golden_dandelion": {
     "criteria": {
       "has_dandelion": "2026-06-22 19:47:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_shelf": {
+    "criteria": {
+      "has_stripped_spruce_log": "2026-06-22 19:49:14 +0200"
     },
     "done": true
   },
