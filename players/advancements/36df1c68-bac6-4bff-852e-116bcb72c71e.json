@@ -1391,7 +1391,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2026-06-07 16:34:31 +0200",
-      "minecraft:chicken": "2026-01-27 13:09:43 +0100"
+      "minecraft:chicken": "2026-01-27 13:09:43 +0100",
+      "minecraft:turtle": "2026-07-04 20:06:38 +0200"
     },
     "done": false
   },
@@ -3259,6 +3260,18 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2026-07-04 15:25:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2026-07-04 20:08:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2026-07-04 20:08:45 +0200"
     },
     "done": true
   },
