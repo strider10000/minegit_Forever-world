@@ -3275,5 +3275,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-07-07 12:46:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-07-07 12:46:13 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
