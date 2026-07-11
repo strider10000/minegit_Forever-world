@@ -3300,24 +3300,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2026-07-09 11:53:47 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_lightning_rod_from_honeycomb": {
-    "criteria": {
-      "has_lightning_rod": "2026-07-09 11:34:25 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2026-07-09 11:53:47 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pale_oak_slab": {
     "criteria": {
       "has_planks": "2026-07-09 11:31:38 +0200"
@@ -3348,12 +3330,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_exposed_lightning_rod_from_honeycomb": {
-    "criteria": {
-      "has_exposed_lightning_rod": "2026-07-09 11:40:39 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/pale_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2026-07-09 11:31:38 +0200"
@@ -3363,6 +3339,30 @@
   "minecraft:recipes/decorations/pale_oak_sign": {
     "criteria": {
       "has_planks": "2026-07-09 11:31:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_lightning_rod": "2026-07-09 11:34:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_exposed_lightning_rod": "2026-07-09 11:40:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-07-09 11:53:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-07-09 11:53:47 +0200"
     },
     "done": true
   },
