@@ -3402,5 +3402,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2026-07-19 15:51:31 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
