@@ -3486,21 +3486,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2026-07-25 15:03:13 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-07-25 15:00:33 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2026-07-25 15:02:48 +0200"
     },
     "done": true
   },
@@ -3516,27 +3504,9 @@
     },
     "done": true
   },
-  "main:recipe_unlocks/quartz": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 15:34:14 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/turtle_helmet": {
-    "criteria": {
-      "has_turtle_scute": "2026-07-25 15:39:35 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-07-25 15:00:33 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2026-07-25 15:18:11 +0200"
     },
     "done": true
   },
@@ -3546,27 +3516,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2026-07-25 15:18:11 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-07-25 15:00:33 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2026-07-25 15:34:14 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2026-07-25 15:34:14 +0200"
     },
     "done": true
   },
@@ -3582,57 +3534,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2026-07-25 15:26:29 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/sweet_berry_mash": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 15:03:13 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2026-07-25 15:34:14 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2026-07-25 15:34:14 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-07-25 15:00:33 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2026-07-25 15:34:14 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-07-25 15:00:33 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2026-07-25 15:26:29 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2026-07-25 15:34:14 +0200"
     },
     "done": true
   },
@@ -3660,18 +3570,6 @@
     },
     "done": true
   },
-  "main:recipe_unlocks/honey_ginger_tea": {
-    "criteria": {
-      "cooked_the_food": "2026-07-25 15:19:49 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/divine_fragment": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 15:39:35 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-07-25 15:00:33 +0200"
@@ -3684,21 +3582,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2026-07-25 15:02:48 +0200"
     },
     "done": true
   },
-  "main:tutorial/obtain_divine_fragment": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "get_heart": "2026-07-25 15:39:35 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2026-07-25 15:26:29 +0200"
+      "has_cod": "2026-07-25 15:02:48 +0200"
     },
     "done": true
   },
@@ -3708,9 +3600,177 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-07-25 15:03:13 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/sweet_berry_mash": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 15:03:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2026-07-25 15:18:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2026-07-25 15:18:11 +0200"
+    },
+    "done": true
+  },
   "main:recipe_unlocks/honey_bottle": {
     "criteria": {
       "has_primary_material": "2026-07-25 15:18:11 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/honey_ginger_tea": {
+    "criteria": {
+      "cooked_the_food": "2026-07-25 15:19:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-07-25 15:26:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-07-25 15:26:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-07-25 15:26:29 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/quartz": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_turtle_scute": "2026-07-25 15:39:35 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/divine_fragment": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 15:39:35 +0200"
+    },
+    "done": true
+  },
+  "main:tutorial/obtain_divine_fragment": {
+    "criteria": {
+      "get_heart": "2026-07-25 15:39:35 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/tomato": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 16:53:18 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/grilled_tomatoes": {
+    "criteria": {
+      "cooked_the_food": "2026-07-25 16:54:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-07-25 16:53:18 +0200"
+    },
+    "done": true
+  },
+  "main:tutorial/obtain_copper": {
+    "criteria": {
+      "get_copper": "2026-07-25 16:48:55 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/copper_ingot": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 16:48:55 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/iron_ingot": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 16:50:16 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/bonemeal": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 16:52:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2026-07-25 16:53:18 +0200"
+    },
+    "done": true
+  },
+  "main:tutorial/obtain_iron_ingot": {
+    "criteria": {
+      "get_iron": "2026-07-25 16:50:16 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/glow_mash": {
+    "criteria": {
+      "cooked_the_food": "2026-07-25 16:55:10 +0200"
     },
     "done": true
   },
