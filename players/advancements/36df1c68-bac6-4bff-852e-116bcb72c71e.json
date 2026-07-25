@@ -3257,30 +3257,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2026-07-25 11:17:43 +0200"
-    },
-    "done": true
-  },
-  "main:tutorial/obtain_dry_grass": {
-    "criteria": {
-      "get_tall_dry_grass": "2026-07-25 11:34:06 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/wheat_grain": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 11:34:06 +0200"
-    },
-    "done": true
-  },
-  "main:tutorial/enter_nether": {
-    "criteria": {
-      "entered_nether": "2026-07-25 11:29:47 +0200"
-    },
-    "done": true
-  },
   "main:tutorial/obtain_obol": {
     "criteria": {
       "get_item": "2026-07-25 11:13:06 +0200"
@@ -3293,93 +3269,9 @@
     },
     "done": true
   },
-  "main:recipe_unlocks/coal": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 12:05:32 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2026-07-25 11:17:43 +0200"
-    },
-    "done": true
-  },
-  "main:tutorial/preserve_food": {
-    "criteria": {
-      "canned_apples": "2026-07-25 11:22:38 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/bread": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 12:00:55 +0200"
-    },
-    "done": true
-  },
-  "main:tutorial/obtain_estus_flask": {
-    "criteria": {
-      "get_estus_flask": "2026-07-25 11:23:18 +0200"
-    },
-    "done": true
-  },
   "main:tutorial/obtain_gold": {
     "criteria": {
       "get_gold": "2026-07-25 11:13:06 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/sturdy_leather": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 11:19:10 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/planks": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 11:25:44 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/nazar": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 11:26:01 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/sulfur_chunk": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 12:02:28 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2026-07-25 11:17:21 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/baked_apple": {
-    "criteria": {
-      "cooked_the_food": "2026-07-25 11:21:08 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/dough": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 11:40:08 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/flour": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 11:34:41 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/sweet_berries": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 11:37:04 +0200"
     },
     "done": true
   },
@@ -3395,57 +3287,9 @@
     },
     "done": true
   },
-  "main:tutorial/obtain_estus": {
-    "criteria": {
-      "get_ash": "2026-07-25 11:16:58 +0200"
-    },
-    "done": true
-  },
   "main:recipe_unlocks/copper_wire": {
     "criteria": {
       "has_primary_material": "2026-07-25 11:13:06 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/tattered_leather": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 11:17:21 +0200"
-    },
-    "done": true
-  },
-  "main:hell/root": {
-    "criteria": {
-      "entered_nether": "2026-07-25 11:29:47 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2026-07-25 11:17:43 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/estus_ash": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 11:16:58 +0200"
-    },
-    "done": true
-  },
-  "main:tutorial/cook_food": {
-    "criteria": {
-      "cook_apple": "2026-07-25 11:21:08 +0200"
-    },
-    "done": true
-  },
-  "main:tutorial/preserve_everything": {
-    "criteria": {
-      "canned_apples": "2026-07-25 11:22:38 +0200"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2026-07-25 11:16:58 +0200"
     },
     "done": true
   },
@@ -3461,9 +3305,106 @@
     },
     "done": true
   },
+  "main:tutorial/obtain_estus": {
+    "criteria": {
+      "get_ash": "2026-07-25 11:16:58 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/estus_ash": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 11:16:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2026-07-25 11:16:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2026-07-25 11:16:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2026-07-25 11:17:21 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/tattered_leather": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 11:17:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2026-07-25 11:17:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2026-07-25 11:17:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2026-07-25 11:17:43 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/sturdy_leather": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 11:19:10 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/baked_apple": {
+    "criteria": {
+      "cooked_the_food": "2026-07-25 11:21:08 +0200"
+    },
+    "done": true
+  },
+  "main:tutorial/cook_food": {
+    "criteria": {
+      "cook_apple": "2026-07-25 11:21:08 +0200"
+    },
+    "done": true
+  },
+  "main:tutorial/preserve_food": {
+    "criteria": {
+      "canned_apples": "2026-07-25 11:22:38 +0200"
+    },
+    "done": true
+  },
+  "main:tutorial/preserve_everything": {
+    "criteria": {
+      "canned_apples": "2026-07-25 11:22:38 +0200",
+      "sweet_berry_jam": "2026-07-25 15:17:02 +0200"
+    },
+    "done": false
+  },
+  "main:tutorial/obtain_estus_flask": {
+    "criteria": {
+      "get_estus_flask": "2026-07-25 11:23:18 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/planks": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 11:25:44 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/nazar": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 11:26:01 +0200"
     },
     "done": true
   },
@@ -3473,15 +3414,303 @@
     },
     "done": true
   },
-  "main:recipe_unlocks/wheat_and_dry_grass": {
+  "main:tutorial/enter_nether": {
     "criteria": {
-      "has_tall_dry_grass": "2026-07-25 11:34:06 +0200"
+      "entered_nether": "2026-07-25 11:29:47 +0200"
+    },
+    "done": true
+  },
+  "main:hell/root": {
+    "criteria": {
+      "entered_nether": "2026-07-25 11:29:47 +0200"
     },
     "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2026-07-25 11:30:27 +0200"
+    },
+    "done": true
+  },
+  "main:tutorial/obtain_dry_grass": {
+    "criteria": {
+      "get_tall_dry_grass": "2026-07-25 11:34:06 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/wheat_grain": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 11:34:06 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/wheat_and_dry_grass": {
+    "criteria": {
+      "has_tall_dry_grass": "2026-07-25 11:34:06 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/flour": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 11:34:41 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/sweet_berries": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 11:37:04 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/dough": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 11:40:08 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/bread": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 12:00:55 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/sulfur_chunk": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 12:02:28 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/coal": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 12:05:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-07-25 15:03:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-07-25 15:02:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/quartz": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_turtle_scute": "2026-07-25 15:39:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2026-07-25 15:18:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2026-07-25 15:18:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-07-25 15:26:29 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/sweet_berry_mash": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 15:03:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-07-25 15:26:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2026-07-25 15:34:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/honey_ginger_tea": {
+    "criteria": {
+      "cooked_the_food": "2026-07-25 15:19:49 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/divine_fragment": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 15:39:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-07-25 15:00:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2026-07-25 15:02:48 +0200"
+    },
+    "done": true
+  },
+  "main:tutorial/obtain_divine_fragment": {
+    "criteria": {
+      "get_heart": "2026-07-25 15:39:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2026-07-25 15:26:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-07-25 15:02:48 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/honey_bottle": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 15:18:11 +0200"
     },
     "done": true
   },
