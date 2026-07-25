@@ -3714,24 +3714,6 @@
     },
     "done": true
   },
-  "main:recipe_unlocks/tomato": {
-    "criteria": {
-      "has_primary_material": "2026-07-25 16:53:18 +0200"
-    },
-    "done": true
-  },
-  "main:recipe_unlocks/grilled_tomatoes": {
-    "criteria": {
-      "cooked_the_food": "2026-07-25 16:54:12 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2026-07-25 16:53:18 +0200"
-    },
-    "done": true
-  },
   "main:tutorial/obtain_copper": {
     "criteria": {
       "get_copper": "2026-07-25 16:48:55 +0200"
@@ -3750,9 +3732,27 @@
     },
     "done": true
   },
+  "main:tutorial/obtain_iron_ingot": {
+    "criteria": {
+      "get_iron": "2026-07-25 16:50:16 +0200"
+    },
+    "done": true
+  },
   "main:recipe_unlocks/bonemeal": {
     "criteria": {
       "has_primary_material": "2026-07-25 16:52:44 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/tomato": {
+    "criteria": {
+      "has_primary_material": "2026-07-25 16:53:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-07-25 16:53:18 +0200"
     },
     "done": true
   },
@@ -3762,9 +3762,9 @@
     },
     "done": true
   },
-  "main:tutorial/obtain_iron_ingot": {
+  "main:recipe_unlocks/grilled_tomatoes": {
     "criteria": {
-      "get_iron": "2026-07-25 16:50:16 +0200"
+      "cooked_the_food": "2026-07-25 16:54:12 +0200"
     },
     "done": true
   },
