@@ -3386,6 +3386,7 @@
   "main:tutorial/preserve_everything": {
     "criteria": {
       "canned_apples": "2026-07-25 11:22:38 +0200",
+      "rind_jam": "2026-07-27 12:50:27 +0200",
       "sweet_berry_jam": "2026-07-25 15:17:02 +0200"
     },
     "done": false
@@ -3771,6 +3772,150 @@
   "main:recipe_unlocks/glow_mash": {
     "criteria": {
       "cooked_the_food": "2026-07-25 16:55:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2026-07-27 12:33:22 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/sunflower": {
+    "criteria": {
+      "has_primary_material": "2026-07-27 12:36:08 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/steamed_carrots": {
+    "criteria": {
+      "cooked_the_food": "2026-07-27 12:30:51 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/nether_wart": {
+    "criteria": {
+      "has_primary_material": "2026-07-27 13:01:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2026-07-27 12:56:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2026-07-27 12:56:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2026-07-27 13:01:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-07-27 12:56:14 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/red_mushroom": {
+    "criteria": {
+      "has_primary_material": "2026-07-27 12:37:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2026-07-27 13:01:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2026-07-27 12:56:14 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/phosphor": {
+    "criteria": {
+      "has_primary_material": "2026-07-27 12:31:36 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/melon_slice": {
+    "criteria": {
+      "has_primary_material": "2026-07-27 12:33:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2026-07-27 12:33:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2026-07-27 12:56:14 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/gold_nugget": {
+    "criteria": {
+      "has_primary_material": "2026-07-27 12:50:53 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/carrot": {
+    "criteria": {
+      "has_primary_material": "2026-07-27 12:27:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-07-27 12:56:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2026-07-27 12:33:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-07-27 12:56:14 +0200"
+    },
+    "done": true
+  },
+  "main:recipe_unlocks/grilled_melon": {
+    "criteria": {
+      "cooked_the_food": "2026-07-27 12:39:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-07-27 12:56:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2026-07-27 12:56:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2026-07-27 12:59:07 +0200"
     },
     "done": true
   },
