@@ -3587,18 +3587,6 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2026-07-27 14:12:28 +0200"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2026-07-27 14:07:47 +0200"
-    },
-    "done": true
-  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2026-07-27 14:07:34 +0200"
@@ -3607,16 +3595,51 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2026-07-27 20:52:50 +0200",
+      "minecraft:forest": "2026-07-27 20:51:51 +0200",
+      "minecraft:sunflower_plains": "2026-07-27 20:48:48 +0200",
+      "minecraft:river": "2026-07-27 20:51:45 +0200",
       "minecraft:plains": "2026-07-27 14:07:35 +0200"
     },
     "done": false
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-07-27 14:07:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2026-07-27 14:08:02 +0200",
+      "golden_apple": "2026-07-27 20:56:52 +0200",
       "poisonous_potato": "2026-07-27 14:07:47 +0200"
     },
     "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-07-27 14:12:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_shelf": {
+    "criteria": {
+      "has_stripped_pale_oak_log": "2026-07-27 20:50:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_log": "2026-07-27 20:50:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_pale_oak_wood": {
+    "criteria": {
+      "has_log": "2026-07-27 20:50:36 +0200"
+    },
+    "done": true
   },
   "DataVersion": 4903
 }
