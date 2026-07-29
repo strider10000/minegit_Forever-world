@@ -3388,11 +3388,14 @@
       "minecraft:river": "2026-07-27 20:51:45 +0200",
       "minecraft:snowy_plains": "2026-07-29 14:36:26 +0200",
       "minecraft:snowy_taiga": "2026-07-29 15:14:11 +0200",
+      "minecraft:frozen_peaks": "2026-07-29 18:12:49 +0200",
       "minecraft:deep_cold_ocean": "2026-07-28 13:52:18 +0200",
       "minecraft:old_growth_birch_forest": "2026-07-29 13:43:13 +0200",
       "minecraft:frozen_river": "2026-07-29 14:13:55 +0200",
       "minecraft:ocean": "2026-07-29 13:43:53 +0200",
       "minecraft:sunflower_plains": "2026-07-27 20:48:48 +0200",
+      "minecraft:cherry_grove": "2026-07-29 18:12:32 +0200",
+      "minecraft:meadow": "2026-07-29 18:12:36 +0200",
       "minecraft:plains": "2026-07-27 14:07:35 +0200"
     },
     "done": false
@@ -3410,10 +3413,13 @@
       "bread": "2026-07-27 14:08:02 +0200",
       "golden_apple": "2026-07-27 20:56:52 +0200",
       "suspicious_stew": "2026-07-28 11:13:43 +0200",
+      "rotten_flesh": "2026-07-29 18:26:41 +0200",
       "sweet_berries": "2026-07-28 09:06:07 +0200",
+      "cooked_beef": "2026-07-29 18:02:01 +0200",
       "beef": "2026-07-29 12:56:35 +0200",
       "melon_slice": "2026-07-28 09:08:45 +0200",
       "beetroot": "2026-07-28 12:03:24 +0200",
+      "golden_carrot": "2026-07-29 17:25:40 +0200",
       "apple": "2026-07-28 12:08:36 +0200",
       "cooked_chicken": "2026-07-29 16:59:01 +0200",
       "poisonous_potato": "2026-07-27 14:07:47 +0200",
@@ -3455,9 +3461,13 @@
     "criteria": {
       "minecraft:blaze": "2026-07-29 16:56:45 +0200",
       "minecraft:skeleton": "2026-07-27 21:20:29 +0200",
+      "minecraft:enderman": "2026-07-29 17:28:56 +0200",
+      "minecraft:witch": "2026-07-29 17:27:39 +0200",
       "minecraft:spider": "2026-07-27 21:20:36 +0200",
       "minecraft:wither_skeleton": "2026-07-29 16:56:52 +0200",
-      "minecraft:zombie": "2026-07-27 21:21:09 +0200"
+      "minecraft:zombie": "2026-07-27 21:21:09 +0200",
+      "minecraft:creeper": "2026-07-29 17:25:33 +0200",
+      "minecraft:zombie_villager": "2026-07-29 17:27:57 +0200"
     },
     "done": false
   },
@@ -3868,6 +3878,42 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-07-29 16:56:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-07-29 16:57:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2026-07-29 16:57:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2026-07-29 16:57:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-07-29 16:59:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-07-29 16:59:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/magenta_harness": {
     "criteria": {
       "has_dried_ghast": "2026-07-29 17:02:07 +0200"
@@ -3880,12 +3926,6 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2026-07-29 16:57:36 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/red_harness": {
     "criteria": {
       "has_dried_ghast": "2026-07-29 17:02:07 +0200"
@@ -3895,12 +3935,6 @@
   "minecraft:recipes/combat/green_harness": {
     "criteria": {
       "has_dried_ghast": "2026-07-29 17:02:07 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2026-07-29 16:59:00 +0200"
     },
     "done": true
   },
@@ -3928,12 +3962,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/place_dried_ghast_in_water": {
-    "criteria": {
-      "place_dried_ghast_in_water": "2026-07-29 17:04:26 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/black_harness": {
     "criteria": {
       "has_dried_ghast": "2026-07-29 17:02:07 +0200"
@@ -3958,21 +3986,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2026-07-29 16:59:00 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/cyan_harness": {
     "criteria": {
       "has_dried_ghast": "2026-07-29 17:02:07 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2026-07-29 16:57:36 +0200"
     },
     "done": true
   },
@@ -3994,15 +4010,147 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:husbandry/place_dried_ghast_in_water": {
     "criteria": {
-      "fortress": "2026-07-29 16:56:07 +0200"
+      "place_dried_ghast_in_water": "2026-07-29 17:04:26 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_deepslate_stonecutting": {
     "criteria": {
-      "has_blaze_rod": "2026-07-29 16:57:36 +0200"
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2026-07-29 18:12:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2026-07-29 17:49:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2026-07-29 17:49:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2026-07-29 17:50:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2026-07-29 18:12:49 +0200"
     },
     "done": true
   },
