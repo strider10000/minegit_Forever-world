@@ -3597,8 +3597,12 @@
     "criteria": {
       "minecraft:deep_cold_ocean": "2026-07-28 13:52:18 +0200",
       "minecraft:cold_ocean": "2026-07-28 12:03:02 +0200",
+      "minecraft:old_growth_birch_forest": "2026-07-29 13:43:13 +0200",
       "minecraft:beach": "2026-07-27 20:52:50 +0200",
+      "minecraft:dark_forest": "2026-07-29 13:47:35 +0200",
+      "minecraft:frozen_river": "2026-07-29 14:13:55 +0200",
       "minecraft:forest": "2026-07-27 20:51:51 +0200",
+      "minecraft:ocean": "2026-07-29 13:43:53 +0200",
       "minecraft:sunflower_plains": "2026-07-27 20:48:48 +0200",
       "minecraft:river": "2026-07-27 20:51:45 +0200",
       "minecraft:plains": "2026-07-27 14:07:35 +0200"
@@ -3723,6 +3727,7 @@
     "criteria": {
       "minecraft:cow": "2026-07-28 11:30:56 +0200",
       "minecraft:horse": "2026-07-29 13:06:55 +0200",
+      "minecraft:turtle": "2026-07-29 13:45:09 +0200",
       "minecraft:sheep": "2026-07-28 11:27:24 +0200"
     },
     "done": false
@@ -3843,6 +3848,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2026-07-29 13:56:48 +0200",
       "minecraft:basalt_deltas": "2026-07-28 12:11:07 +0200"
     },
     "done": false
@@ -4048,6 +4054,18 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2026-07-29 13:12:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2026-07-29 13:43:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-07-29 13:57:53 +0200"
     },
     "done": true
   },
