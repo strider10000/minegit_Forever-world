@@ -2429,210 +2429,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_sulfur_slab_from_sulfur_stonecutting": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_sulfur": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/potent_sulfur": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sulfur_wall_from_sulfur_stonecutting": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sulfur_wall": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sulfur_bricks_from_sulfur_stonecutting": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sulfur_stairs_from_sulfur_stonecutting": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sulfur_brick_slab_from_sulfur_stonecutting": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sulfur_stairs": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sulfur_brick_wall_from_sulfur_stonecutting": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sulfur_slab_from_sulfur_stonecutting": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_sulfur_wall_from_sulfur_stonecutting": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_sulfur_from_sulfur_stonecutting": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_sulfur_stairs_from_sulfur_stonecutting": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sulfur_slab": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sulfur_brick_stairs_from_sulfur_stonecutting": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sulfur_from_sulfur_stonecutting": {
-    "criteria": {
-      "has_sulfur": "2026-06-21 13:42:53 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sulfur_from_sulfur_spikes": {
-    "criteria": {
-      "has_sulfur_spike": "2026-06-21 13:43:04 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_cinnabar_from_cinnabar_stonecutting": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_cinnabar_from_cinnabar_stonecutting": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cinnabar_slab": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_cinnabar": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_cinnabar_stairs_from_cinnabar_stonecutting": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cinnabar_wall": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cinnabar_brick_stairs_from_cinnabar_stonecutting": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cinnabar_bricks_from_cinnabar_stonecutting": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cinnabar_wall_from_cinnabar_stonecutting": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cinnabar_brick_wall_from_cinnabar_stonecutting": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cinnabar_stairs": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cinnabar_slab_from_cinnabar_stonecutting": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_cinnabar_slab_from_cinnabar_stonecutting": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_cinnabar_wall_from_cinnabar_stonecutting": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cinnabar_stairs_from_cinnabar_stonecutting": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cinnabar_brick_slab_from_cinnabar_stonecutting": {
-    "criteria": {
-      "has_cinnabar": "2026-06-21 13:43:36 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
       "has_mangrove_roots": "2026-06-21 14:00:13 +0200"
@@ -2651,21 +2447,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_log": "2026-06-22 19:49:14 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2026-06-22 19:49:14 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_log": "2026-06-27 19:09:17 +0200"
     },
     "done": true
   },
@@ -3623,15 +3407,16 @@
     "criteria": {
       "cooked_porkchop": "2026-07-28 11:10:07 +0200",
       "mutton": "2026-07-29 15:30:42 +0200",
-      "apple": "2026-07-28 12:08:36 +0200",
       "bread": "2026-07-27 14:08:02 +0200",
       "golden_apple": "2026-07-27 20:56:52 +0200",
       "suspicious_stew": "2026-07-28 11:13:43 +0200",
       "sweet_berries": "2026-07-28 09:06:07 +0200",
       "beef": "2026-07-29 12:56:35 +0200",
       "melon_slice": "2026-07-28 09:08:45 +0200",
-      "poisonous_potato": "2026-07-27 14:07:47 +0200",
       "beetroot": "2026-07-28 12:03:24 +0200",
+      "apple": "2026-07-28 12:08:36 +0200",
+      "cooked_chicken": "2026-07-29 16:59:01 +0200",
+      "poisonous_potato": "2026-07-27 14:07:47 +0200",
       "carrot": "2026-07-28 11:17:32 +0200"
     },
     "done": false
@@ -3645,12 +3430,6 @@
   "minecraft:recipes/decorations/pale_oak_shelf": {
     "criteria": {
       "has_stripped_pale_oak_log": "2026-07-27 20:50:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pale_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_log": "2026-07-27 20:50:36 +0200"
     },
     "done": true
   },
@@ -3674,8 +3453,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2026-07-29 16:56:45 +0200",
       "minecraft:skeleton": "2026-07-27 21:20:29 +0200",
       "minecraft:spider": "2026-07-27 21:20:36 +0200",
+      "minecraft:wither_skeleton": "2026-07-29 16:56:52 +0200",
       "minecraft:zombie": "2026-07-27 21:21:09 +0200"
     },
     "done": false
@@ -3854,6 +3635,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2026-07-29 13:56:48 +0200",
+      "minecraft:soul_sand_valley": "2026-07-29 16:54:51 +0200",
       "minecraft:basalt_deltas": "2026-07-28 12:11:07 +0200"
     },
     "done": false
@@ -4074,17 +3856,155 @@
     },
     "done": true
   },
-  "minecraft:adventure/use_lodestone": {
-    "criteria": {
-      "use_lodestone": "2026-07-29 15:14:56 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2026-07-29 15:03:43 +0200"
     },
     "done": true
   },
-  "DataVersion": 4903
+  "minecraft:adventure/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2026-07-29 15:14:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/magenta_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/yellow_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-07-29 16:57:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/red_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/green_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-07-29 16:59:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/purple_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/white_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/place_dried_ghast_in_water": {
+    "criteria": {
+      "place_dried_ghast_in_water": "2026-07-29 17:04:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/black_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/pink_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/orange_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-07-29 16:59:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/cyan_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2026-07-29 16:57:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/brown_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/lime_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-07-29 17:02:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-07-29 16:56:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2026-07-29 16:57:36 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 4790
 }
