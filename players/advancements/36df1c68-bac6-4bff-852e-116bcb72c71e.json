@@ -3428,6 +3428,7 @@
       "apple": "2026-07-28 12:08:36 +0200",
       "cooked_chicken": "2026-07-29 16:59:01 +0200",
       "poisonous_potato": "2026-07-27 14:07:47 +0200",
+      "cooked_salmon": "2026-08-04 16:53:08 +0200",
       "carrot": "2026-07-28 11:17:32 +0200"
     },
     "done": false
@@ -3466,13 +3467,14 @@
     "criteria": {
       "minecraft:blaze": "2026-07-29 16:56:45 +0200",
       "minecraft:skeleton": "2026-07-27 21:20:29 +0200",
-      "minecraft:piglin": "2026-07-29 19:25:22 +0200",
       "minecraft:zombified_piglin": "2026-07-29 19:23:27 +0200",
+      "minecraft:witch": "2026-07-29 17:27:39 +0200",
+      "minecraft:wither_skeleton": "2026-07-29 16:56:52 +0200",
+      "minecraft:ender_dragon": "2026-08-04 17:07:53 +0200",
+      "minecraft:piglin": "2026-07-29 19:25:22 +0200",
       "minecraft:enderman": "2026-07-29 17:28:56 +0200",
       "minecraft:magma_cube": "2026-07-29 19:20:36 +0200",
-      "minecraft:witch": "2026-07-29 17:27:39 +0200",
       "minecraft:spider": "2026-07-27 21:20:36 +0200",
-      "minecraft:wither_skeleton": "2026-07-29 16:56:52 +0200",
       "minecraft:zombie": "2026-07-27 21:21:09 +0200",
       "minecraft:creeper": "2026-07-29 17:25:33 +0200",
       "minecraft:zombie_villager": "2026-07-29 17:27:57 +0200"
@@ -4340,6 +4342,60 @@
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2026-07-31 21:04:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2026-08-04 17:07:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2026-08-04 17:09:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-08-04 16:57:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2026-08-04 16:57:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-08-04 16:57:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-08-04 16:57:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-08-04 16:57:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-08-04 16:57:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-08-04 16:57:47 +0200"
     },
     "done": true
   },
