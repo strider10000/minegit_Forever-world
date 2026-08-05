@@ -3421,6 +3421,7 @@
       "rotten_flesh": "2026-07-29 18:26:41 +0200",
       "sweet_berries": "2026-07-28 09:06:07 +0200",
       "cooked_beef": "2026-07-29 18:02:01 +0200",
+      "chorus_fruit": "2026-08-05 20:12:33 +0200",
       "beef": "2026-07-29 12:56:35 +0200",
       "melon_slice": "2026-07-28 09:08:45 +0200",
       "beetroot": "2026-07-28 12:03:24 +0200",
@@ -4400,6 +4401,30 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-08-05 19:44:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-08-05 19:47:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2026-08-05 19:48:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-08-05 19:48:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
       "has_end_stone_bricks": "2026-08-05 19:48:58 +0200"
@@ -4409,12 +4434,6 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_bricks_stonecutting": {
     "criteria": {
       "has_end_stone_bricks": "2026-08-05 19:48:58 +0200"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2026-08-05 19:48:47 +0200"
     },
     "done": true
   },
@@ -4436,27 +4455,15 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2026-08-05 19:47:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2026-08-05 19:44:24 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_end_stone_bricks": "2026-08-05 19:48:58 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "has_shulker_shell": "2026-08-05 19:48:13 +0200"
+      "has_chorus_fruit": "2026-08-05 20:07:09 +0200"
     },
     "done": true
   },
